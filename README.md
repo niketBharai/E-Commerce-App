@@ -9,8 +9,6 @@
 
 ## 🧰 Tech Stack
 
-> _(Update based on your actual stack)_
-
 - **Frontend:** React
 - **Backend:** Node.js
 - **Database:** MongoDB
